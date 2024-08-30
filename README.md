@@ -13,7 +13,7 @@ You can install these packages using pip:
 
 ```bash
 pip install opencv-python FER tensorflow
-
+```
 
 ## Setup
 Prepare Known Faces:
@@ -27,7 +27,7 @@ Execute the main.py script to start the face recognition and emotion detection p
 
 ```bash
 python main.py
-
+```
 ## Usage:
 
 The application will open a window showing the live feed from your webcam.
